@@ -1,0 +1,83 @@
+h1 {
+  font-weight: 400;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  margin: 15px;
+  margin-left: 0;
+}
+h2 {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+}
+
+h3 {
+  font-weight: normal;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+}
+
+li {
+  list-style-type: circle;
+  position: relative;
+  top: 0;
+  left: 250px;
+}
+.container {
+  border-radius: 4px;
+  background: linear-gradient(to top, #5585b5 7%, white 93%);
+  max-width: 600px;
+  margin: 20;
+}
+.Enteracity {
+  position: relative;
+  top: -31px;
+  left: 99px;
+}
+.search {
+  position: relative;
+  top: 50;
+  left: 100px;
+}
+.current {
+  position: relative;
+  top: 30px;
+  left: 100px;
+}
+.search-form {
+  margin-bottom: 20px;
+}
+
+.currentTemperature {
+  font-size: 40px;
+  position: relative;
+  top: 10px;
+  left: 50px;
+  line-height: 1;
+}
+
+.card-header {
+  font-weight: 600;
+  font-size: 15px;
+  font-family: "PT Mono", monospace;
+}
+.card-text {
+  text-align: center;
+}
+.card-body {
+  background-color: #5585b5;
+}
+.cloud-icon {
+  text-align: center;
+  color: #fff;
+}
+
+.cloud-bolt-icon {
+  color: #fff;
+}
+
+span.units {
+  font-size: 16px;
+  position: relative;
+  top: -20px;
+}
