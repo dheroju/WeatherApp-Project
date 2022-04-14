@@ -17,6 +17,12 @@ h3 {
   font-family: "Roboto", sans-serif;
 }
 
+small {
+  font-size: 15px;
+  text-align: center;
+  background-color: #fff;
+  font-family: "PT Mono", monospace;
+}
 li {
   list-style-type: circle;
   position: relative;
